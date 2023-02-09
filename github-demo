@@ -1,0 +1,7 @@
+echo "# 2回目の試行" >> README.md 
+git init 
+git add README.md 
+git commit -m "1回目のコミット" 
+git branch -M main 
+git remote add origin https://github.com/shunsuke5468/second-trial. git
+ git push -u オリジン メイン
