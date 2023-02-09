@@ -4,4 +4,4 @@ git add README.md
 git commit -m "1回目のコミット" 
 git branch -M main 
 git remote add origin https://github.com/shunsuke5468/second-trial. git
- git push -u オリジン メイン
+git push -u オリジン メイン
